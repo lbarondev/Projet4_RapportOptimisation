@@ -1,0 +1,55 @@
+header {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  width: 20%;
+  margin: auto;
+}
+
+body {
+  font-family: "Roboto";
+  font-weight: 400;
+  color: #f79d74;
+}
+
+main {
+  width: 90%;
+  margin: auto;
+}
+
+.ligne {
+  border-bottom: 5px solid #f79d74;
+  width: 95%;
+  margin: 50px auto 10px auto;
+  padding-bottom: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  color: black;
+}
+
+.img_rapport {
+  width: 50%;
+  margin-top: 4%;
+}
+
+.wave {
+  width: 400px;
+  height: 400px;
+}
+
+div {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-size: 25px;
+}
+
+.lang {
+  width: 400px;
+  height: 100px;
+}
