@@ -14,11 +14,6 @@ body {
   color: #f79d74;
 }
 
-main {
-  width: 90%;
-  margin: auto;
-}
-
 .ligne {
   border-bottom: 5px solid #f79d74;
   width: 95%;
@@ -33,7 +28,7 @@ h1 {
 }
 
 .img_rapport {
-  width: 50%;
+  width: 48%;
   margin-top: 4%;
 }
 
@@ -47,9 +42,4 @@ div {
   justify-content: space-around;
   flex-wrap: wrap;
   font-size: 25px;
-}
-
-.lang {
-  width: 400px;
-  height: 100px;
 }
