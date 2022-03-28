@@ -1,8 +1,24 @@
-header {
+.titre {
   display: flex;
   flex-direction: column;
 }
 
+ul {
+  list-style-type: none;
+  justify-content: end;
+  display: flex;
+  margin-right: 20px;
+}
+
+a {
+  color: black;
+  margin-right: 10px;
+  position: relative;
+  top: -160px;
+  text-decoration: none;
+  font-weight: 400;
+  color: #f79d74;
+}
 .logo {
   width: 20%;
   margin: auto;
@@ -49,4 +65,13 @@ div {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.img_rapport-keywords {
+  height: 40px;
+  margin-top: 50px;
+}
+
+.img_rapport-descrip {
+  margin-top: 20px;
 }
