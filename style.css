@@ -1,6 +1,7 @@
 .titre {
   display: flex;
   flex-direction: column;
+  background-color: white;
 }
 
 ul {
@@ -27,7 +28,9 @@ a {
 body {
   font-family: "Roboto";
   font-weight: 400;
+
   color: #f79d74;
+  background-color: #1e1e1e;
 }
 
 .ligne {
