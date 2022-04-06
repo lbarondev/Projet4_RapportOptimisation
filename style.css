@@ -1,7 +1,7 @@
 .titre {
   display: flex;
   flex-direction: column;
-  background-color: white;
+  background-color: #f79d74;
 }
 
 ul {
@@ -13,12 +13,14 @@ ul {
 
 a {
   color: black;
-  margin-right: 10px;
+  margin-right: 20px;
   position: relative;
   top: -160px;
   text-decoration: none;
   font-weight: 400;
-  color: #f79d74;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
 }
 .logo {
   width: 20%;
